@@ -2,13 +2,16 @@
 
 Este repositório contém projetos desenvolvido na plataforma [CircuitVerse](https://circuitverse.org/).
 
-## 📁 Conteúdo
+## 📁 Conteúdo — Arquivos compactados de projetos do CircuitVerse.
 
-- `Contador_Gray.cv` — Arquivo compactado do projeto CircuitVerse.
-- Link: https://circuitverse.org/users/318297/projects/contador-gray-240cd807-e467-4d7e-a473-896bb33fa42b
+- `Contador_Gray.cv`
+- Link: [https://circuitverse.org/users/318297/projects/contador-gray-240cd807-e467-4d7e-a473-896bb33fa42b](https://circuitverse.org/users/318297/projects/contador-gray-240cd807-e467-4d7e-a473-896bb33fa42b)
 
-- `Flip-Flops_RS_D_Contador.cv` — " " " " ".
-- Link: https://circuitverse.org/users/318297/projects/flip-flops-11950002-5a38-4e63-9a3a-56a916489969
+- `Flip-Flops_RS_D_Contador.cv`
+- Link: [https://circuitverse.org/users/318297/projects/flip-flops-11950002-5a38-4e63-9a3a-56a916489969](https://circuitverse.org/users/318297/projects/flip-flops-11950002-5a38-4e63-9a3a-56a916489969)
+
+- `BCD-Display_de_7_Segmentos.cv`
+- Link: [https://circuitverse.org/users/318297/projects/flip-flops-11950002-5a38-4e63-9a3a-56a916489969](https://circuitverse.org/users/318297/projects/bcd-gt-display-de-7-segmentos)
   
 ## 📥 Como abrir
 
