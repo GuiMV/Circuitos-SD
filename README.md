@@ -9,6 +9,6 @@ Este repositório contém um projeto desenvolvido na plataforma [CircuitVerse](h
 
 ## 📥 Como abrir
 
-1. Vá para [CircuitVerse Import](https://circuitverse.org/users/sign_in)
+1. Vá para o simulador [CircuitVerse Simulator](https://circuitverse.org/simulator)
 2. Crie um novo projeto.
 3. Use a opção **Import from File** e envie o `.cv`.
